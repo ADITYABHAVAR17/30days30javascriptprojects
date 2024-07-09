@@ -1,10 +1,9 @@
-Sure! Here's a GitHub README for the 30days30js project:
 
 ---
 
-# 30days30js
+# 30days30javascriptprojects
 
-Welcome to the 30days30js project! This repository is dedicated to the challenge of building 30 JavaScript projects in 30 days. The goal is to improve your JavaScript skills by working on a variety of small, interesting projects each day.
+Welcome to the 30days30javascriptprojects repository! This project is dedicated to the challenge of building 30 JavaScript projects in 30 days. The goal is to improve your JavaScript skills by working on a variety of small, interesting projects each day.
 
 ## Table of Contents
 
@@ -16,22 +15,22 @@ Welcome to the 30days30js project! This repository is dedicated to the challenge
 
 ## About
 
-The 30days30js challenge is designed to help developers of all skill levels to practice and improve their JavaScript skills. Each day, you'll create a new project from scratch, each focusing on different aspects of JavaScript, such as DOM manipulation, APIs, and more.
+The 30days30javascriptprojects challenge is designed to help developers of all skill levels to practice and improve their JavaScript skills. Each day, you'll create a new project from scratch, each focusing on different aspects of JavaScript, such as DOM manipulation, APIs, and more.
 
 ## Getting Started
 
-To get started with the 30days30js challenge, follow these steps:
+To get started with the 30days30javascriptprojects challenge, follow these steps:
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/30days30js.git
+   git clone https://github.com/ADITYABHAVAR17/30days30javascriptprojects.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd 30days30js
+   cd 30days30javascriptprojects
    ```
 
 3. **Install dependencies (if any):**
@@ -48,9 +47,9 @@ To get started with the 30days30js challenge, follow these steps:
 
 Here is a list of the projects you'll build during the 30 days:
 
-1. **Day 1:** [Project Name](projects/day01)
-2. **Day 2:** [Project Name](projects/day02)
-3. **Day 3:** [Project Name](projects/day03)
+1. **Day 1:** [Drum JS](projects/day01)
+2. **Day 2:** [Clock](projects/day02)
+3. **Day 3:** [CSS Variable](projects/day03)
 4. **Day 4:** [Project Name](projects/day04)
 5. **Day 5:** [Project Name](projects/day05)
 6. **Day 6:** [Project Name](projects/day06)
@@ -88,7 +87,7 @@ We welcome contributions from the community! If you'd like to contribute a proje
 1. **Fork the repository:**
 
    ```sh
-   git fork https://github.com/yourusername/30days30js.git
+   git fork https://github.com/ADITYABHAVAR17/30days30javascriptprojects.git
    ```
 
 2. **Create a new branch:**
@@ -115,6 +114,7 @@ We welcome contributions from the community! If you'd like to contribute a proje
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
