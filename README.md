@@ -49,8 +49,8 @@ Here is a list of the projects you'll build during the 30 days:
 
 1. **Day 1:** [Drum JS](Day%201-%20Drum%20js)
 2. **Day 2:** [Clock](Day%202-%20Clock)
-3. **Day 3:** [CSS Variable](Day%203-CSS%20Variables)
-4. **Day 4:** [BMI Calculator](Day%204-BMI%20Calculator)
+3. **Day 3:** [CSS Variable](Day%203-CSS%20Variable)
+4. **Day 4:** [BMI Calculator](Day%204-BMI%20calculator)
 5. **Day 5:** [Project Name](projects/day05)
 6. **Day 6:** [Project Name](projects/day06)
 7. **Day 7:** [Project Name](projects/day07)
