@@ -48,9 +48,9 @@ To get started with the 30days30javascriptprojects challenge, follow these steps
 Here is a list of the projects you'll build during the 30 days:
 
 1. **Day 1:** [Drum JS](Day%201-%20Drum%20js)
-2. **Day 2:** [Clock](projects/day02)
-3. **Day 3:** [CSS Variable](projects/day03)
-4. **Day 4:** [Project Name](projects/day04)
+2. **Day 2:** [Clock](Day%202-%20Clock)
+3. **Day 3:** [CSS Variable](Day%203-%20CSS%20Variables)
+4. **Day 4:** [BMI Calculator](Day%204-%20BMI%20Calculator)
 5. **Day 5:** [Project Name](projects/day05)
 6. **Day 6:** [Project Name](projects/day06)
 7. **Day 7:** [Project Name](projects/day07)
