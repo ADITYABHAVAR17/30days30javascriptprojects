@@ -51,7 +51,7 @@ Here is a list of the projects you'll build during the 30 days:
 2. **Day 2:** [Clock](Day%202-%20Clock)
 3. **Day 3:** [CSS Variable](Day%203-CSS%20Variable)
 4. **Day 4:** [BMI Calculator](Day%204-BMI%20calculator)
-5. **Day 5:** [Project Name](Day%205-GitHub-Profile-Search)
+5. **Day 5:** [GitHub Profile Search](Day%205-GitHub-Profile-Search)
 6. **Day 6:** [Project Name](projects/day06)
 7. **Day 7:** [Project Name](projects/day07)
 8. **Day 8:** [Project Name](projects/day08)
