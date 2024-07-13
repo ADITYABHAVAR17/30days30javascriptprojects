@@ -39,12 +39,12 @@ search.addEventListener('click', function() {
             if (data.cod === 200) {
                 const tempValue = (data.main.temp - 273.15).toFixed(2); // Convert from Kelvin to Celsius
                 const nameValue = data.name;
-                const descValue = data.weather[0].description;
-                // descValue.upperCase();
+                const descValue = data.weather[0]?.description || 'No description available';
                 const countryValue = data.sys.country;
                 const humidValue = data.main.humidity;
                 const windValue = data.wind.speed;
                 const pressureValue = data.main.pressure;
+
                 desc.innerHTML = `${descValue}`;
                 temp.innerHTML = `${tempValue} °C`;
                 ctname.innerHTML = nameValue + ', ' + countryValue;
