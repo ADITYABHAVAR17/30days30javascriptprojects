@@ -10,7 +10,7 @@ const desc = document.querySelector('.status');
 search.addEventListener('click', function() {
     const apiKey = 'e51e104866ff62ba9a097579c0d212bf';
     const city = cityname.value;
-    const geoUrl = `http://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=5&appid=${apiKey}`;
+    const geoUrl = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=5&appid=${apiKey}`;
 
     fetch(geoUrl)
         .then(response => {
