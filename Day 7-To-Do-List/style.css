@@ -1,0 +1,111 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    background-image: radial-gradient(circle, #b718bd5d, #ff036c);
+}
+.container{
+   /* text-align: center; */
+    background-color: #fff;
+
+    width: 370px;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1{
+    color: #ff036c;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.input{
+
+    width: 330px;
+    padding: 13px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    padding-left: 40px;
+    color: #050505;
+    background-color: #ccc;
+    /* position: absolute; */
+}
+.btn{
+    width: 80px;
+    padding: 13px;
+    margin-right:1px ;
+    /* border: 1px solid #ccc; */
+    border: none;
+    border-radius: 25px;
+    background-color: #ff036c;
+    color: #fff;
+    cursor: pointer;
+    position: absolute;
+}
+input:before{
+   background-color: #ff036c4f;
+}
+.inpbtn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.additems{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 0;
+    /* padding: ; */
+    /* border: 1px solid #ccc; */
+    border-radius: 25px;
+    background-color: rgb(235, 235, 54);
+}
+.checkbox{
+    width: 17px;
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid #000000;
+    /* outline: none; */
+}
+.del{
+    color: #ff036c;
+    
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+.text{
+    font-weight: bolder;
+}
+@media screen and (max-width: 500px){
+    .container{
+        width: 300px;
+    }
+    .input{
+        width: 270px;
+    }
+    .btn{
+        width: 60px;
+    }
+    .additems{
+        width: 100%;
+    }
+    .checkbox{
+        width: 15px;
+        height: 18px;
+    }
+    .del{
+        font-size: 10px;
+    }
+    .text{
+        font-size: 15px;
+    }
+    
+}
