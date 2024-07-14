@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thala For A Reason</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.2/tsparticles.confetti.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.1/dist/sweetalert2.min.css" rel="stylesheet">
+</head>
+<body class="body">
+    <header class="header">
+        <p>Fun Purpose😊</p>
+    </header>
+    <div class="main-container">
+        <h1 class="title">Thala For A Reason</h1>
+        <div class="input-container">
+            <input type="text" name="snippet" id="snippet" placeholder="Enter your text" autocomplete="off" class="input">
+            <button onclick="checkThala()" type="submit" class="btn-check">Check Reason</button>
+        </div>
+        
+        <div class="footer">
+
+            <!-- <a href="javascript:location.reload();" >Stop the music</a> -->
+            <button onclick="stopAudio()" type="submit" class="btn-check">Stop Music</button>
+        </div>
+    </div>
+    <audio src="./assets/audio.mp3" preload="auto"></audio>
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script src="script.js"></script>
+</body>
+</html>
