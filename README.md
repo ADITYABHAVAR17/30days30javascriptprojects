@@ -55,7 +55,7 @@ Here is a list of the projects you'll build during the 30 days:
 6. **Day 6:** [Whether App](Day%206-Whether-App)
 7. **Day 7:** [Thala For A Reason](Day%207-ThalaForAReason)
 8. **Day 8:** [To Do List](Day%208-To-Do-List)
-9. **Day 9:** [Project Name](Day-9-Notes%20App)
+9. **Day 9:** [Notes App](Day-9-Notes%20App)
 10. **Day 10:** [Project Name](projects/day10)
 11. **Day 11:** [Project Name](projects/day11)
 12. **Day 12:** [Project Name](projects/day12)
