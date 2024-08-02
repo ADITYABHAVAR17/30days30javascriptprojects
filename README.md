@@ -57,7 +57,7 @@ Here is a list of the projects you'll build during the 30 days:
 8. **Day 8:** [To Do List](Day%208-To-Do-List)
 9. **Day 9:** [Notes App](Day-9-Notes%20App)
 10. **Day 10:** [QR CODE GENERATOR](Day-10-QR-Generator)
-11. **Day 11:** [Project Name](projects/day11)
+11. **Day 11:** [Toast Notifications](Day%2011-Toast-Notifications)
 12. **Day 12:** [Project Name](projects/day12)
 13. **Day 13:** [Project Name](projects/day13)
 14. **Day 14:** [Project Name](projects/day14)
